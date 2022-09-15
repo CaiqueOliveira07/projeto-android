@@ -1,4 +1,5 @@
-@import "{{ @charset "utf-8";
+@import 
+@charset "utf-8";
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 
